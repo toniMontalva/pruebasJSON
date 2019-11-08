@@ -1,17 +1,13 @@
-[
-{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
-{"type":"database","name":"acceso_datos"},
-{"type":"table","name":"eventos","database":"acceso_datos","data":
-[
-{"id":"1","eq_local":"Valencia","eq_visitante":"Barcelona","id_mercados":"1"},
-{"id":"2","eq_local":"asdas","eq_visitante":"acas","id_mercados":"4"},
-{"id":"3","eq_local":"Valencia","eq_visitante":"Madrid","id_mercados":"5"},
-{"id":"5","eq_local":"Madrid","eq_visitante":"Valencia","id_mercados":"13"},
-{"id":"6","eq_local":"Valencia","eq_visitante":"Madrid","id_mercados":"14"},
-{"id":"7","eq_local":"Barcelona","eq_visitante":"Málaga","id_mercados":"15"},
-{"id":"8","eq_local":"Almería","eq_visitante":"Zaragoza","id_mercados":"16"},
-{"id":"9","eq_local":"Nápoles","eq_visitante":"Ajax","id_mercados":"17"},
-{"id":"10","eq_local":"Valencia","eq_visitante":"Madrid","id_mercados":"18"}
+{
+"eventos": [
+  {"id":"1","eq_local":"Valencia","eq_visitante":"Barcelona","id_mercados":"1"},
+  {"id":"2","eq_local":"asdas","eq_visitante":"acas","id_mercados":"4"},
+  {"id":"3","eq_local":"Valencia","eq_visitante":"Madrid","id_mercados":"5"},
+  {"id":"5","eq_local":"Madrid","eq_visitante":"Valencia","id_mercados":"13"},
+  {"id":"6","eq_local":"Valencia","eq_visitante":"Madrid","id_mercados":"14"},
+  {"id":"7","eq_local":"Barcelona","eq_visitante":"Málaga","id_mercados":"15"},
+  {"id":"8","eq_local":"Almería","eq_visitante":"Zaragoza","id_mercados":"16"},
+  {"id":"9","eq_local":"Nápoles","eq_visitante":"Ajax","id_mercados":"17"},
+  {"id":"10","eq_local":"Valencia","eq_visitante":"Madrid","id_mercados":"18"}
 ]
 }
-]
